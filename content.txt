@@ -1,0 +1,6 @@
+hello world 
+trignometry
+polynomials
+determinants
+laplace transform
+fourier transform
