@@ -3,4 +3,5 @@ trignometry
 polynomials
 determinants
 Inverse laplace transform
-fourier transform
+Inverse fourier transform
+
