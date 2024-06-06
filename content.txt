@@ -2,5 +2,5 @@ hello world
 trignometry
 polynomials
 determinants
-laplace transform
+Inverse laplace transform
 fourier transform
